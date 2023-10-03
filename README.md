@@ -15,6 +15,6 @@
 
 ### My projects
 
-  - [[https://github.com/FadeCap/CMS-cross-course-project](https://github.com/FadeCap/Semester-Project-1)https://github.com/FadeCap/Semester-Project-1](https://github.com/FadeCap/Semester-Project-1.git)https://github.com/FadeCap/Semester-Project-1.git
-  - 
-  - 
+  - https://github.com/FadeCap/Semester-Project-1
+  - https://github.com/FadeCap/Interactive-Rating-Component
+  - https://github.com/Noroff-FEU-Assignments/project-exam-1-FadeCap
