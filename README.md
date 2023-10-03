@@ -1,16 +1,20 @@
-### Hi there 👋
+### Welcome to my github README.md 👋
 
-<!--
-**FadeCap/FadeCap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - I'm a 29 year old man from Ålesund, Norway.
+  - Started as a student at Noroff University, Front-end Development (October 18. 2022)
+  - Have a burning passion for coding, and I want to continually improve my skills as a developer
+
+### What I've learned so far
+
+  - HTML
+  - CSS
+  - Javascript
+
+### My projects
+
+  - [[https://github.com/FadeCap/CMS-cross-course-project](https://github.com/FadeCap/Semester-Project-1)https://github.com/FadeCap/Semester-Project-1](https://github.com/FadeCap/Semester-Project-1.git)https://github.com/FadeCap/Semester-Project-1.git
+  - 
+  - 
