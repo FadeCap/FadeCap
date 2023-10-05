@@ -4,7 +4,7 @@
 ### About me
 
   - I'm a 29 year old man from Ålesund, Norway.
-  - Started as a student at Noroff University, Front-end Development (October 18. 2022)
+  - Started as a student at Noroff University, Front-end Development, October 18. 2022
   - Have a burning passion for coding, and I want to continually improve my skills as a developer
 
 ### What I've learned so far
