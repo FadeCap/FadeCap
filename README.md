@@ -1,4 +1,4 @@
-# Hi there, I'm Stian Busengdal 👋
+# Hi there, I'm Stian 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in building efficient and user-friendly applications. 
 
