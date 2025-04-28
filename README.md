@@ -4,14 +4,18 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Vite, React, and Tailwind CSS** to enhance my skills and improve my projects.
+- 🌱 I'm currently learning more about:
+        - React, TypeScript
+        - Getting a deeper understanding on computers and how to work/process information
+        - NeoVim (Using LazyVim as it is very helpful towards newer users)
+        - Making a game in Godot
 - 💻 I enjoy making websites, the whole process from planning to actually implententing the ideas into code.
 - 🎯 My goal is to create visually appealing and highly functional user experiences.
 
 ## 🛠️ Technologies & Tools
 
+- **Frameworks & Libraries:** React, TypeScript, Tailwind CSS, Bootstrap
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** React, Tailwind CSS, Bootstrap
 - **Tools:** Git, GitHub, Figma, Trello
 - **APIs:** RESTful APIs for data handling and integration
 
