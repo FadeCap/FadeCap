@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 🚀 About Me
 
 - 🌱 I'm currently learning more about:
-        - React, TypeScript
-        - Getting a deeper understanding on computers and how to work/process information
-        - NeoVim (Using LazyVim as it is very helpful towards newer users)
-        - Making a game in Godot
+  * React, TypeScript
+  * Getting a deeper understanding on computers/linux systems
+  * NeoVim (Using LazyVim as it is very helpful towards newer users)
+  * Making a game in Godot
 - 💻 I enjoy making websites, the whole process from planning to actually implententing the ideas into code.
 - 🎯 My goal is to create visually appealing and highly functional user experiences.
 
