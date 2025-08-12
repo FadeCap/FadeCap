@@ -7,8 +7,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🌱 I'm currently learning more about:
   * React, TypeScript
   * Getting a deeper understanding on computers/linux systems
-  * NeoVim (Using LazyVim as it is very helpful towards newer users)
-  * Making a game in Godot
+  * NeoVim
+  * Automating tasks through shell scripts
+    * Google Calendar Events through Obsidian
+    * Music through a back-end server, might host it online in the future (for myself)
+
 - 💻 I enjoy making websites, the whole process from planning to actually implententing the ideas into code.
 - 🎯 My goal is to create visually appealing and highly functional user experiences.
 
